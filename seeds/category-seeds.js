@@ -1,4 +1,4 @@
-const { Category } = require('../models');
+const { Category } = require('../develop/models');
 
 const categoryData = [
   {
