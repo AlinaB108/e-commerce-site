@@ -1,4 +1,4 @@
-const { ProductTag } = require('../develop/models');
+const { ProductTag } = require('../models');
 
 const productTagData = [
   {
