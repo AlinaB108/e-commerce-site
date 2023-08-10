@@ -58,13 +58,13 @@ To check the API routes you will need Insomnia or an app with similar functional
 
 Example of CRUD Operations in Insomnia:
 
-![Screenshot](/assets/images/op1.png)
+![Screenshot](./assets/images/op1.png)
 
-![Screenshot](/assets/images/op2.png)
+![Screenshot](./assets/images/op2.png)
 
-![Screenshot](/assets/images/op3.png)
+![Screenshot](./assets/images/op3.png)
 
-![Screenshot](/assets/images/op4.png)
+![Screenshot](./assets/images/op4.png)
 
 
 ## Contributing
