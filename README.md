@@ -64,8 +64,6 @@ Example of CRUD Operations in Insomnia:
 
 ![Screenshot](./assets/images/op3.png)
 
-![Screenshot](./assets/images/op4.png)
-
 
 ## Contributing
 1. Fork the project by clicking Fork in the top-right corner of the page.
