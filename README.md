@@ -36,7 +36,7 @@ npm i dotenv
 ```
 
 ## Usage
-[Recording of Application](https://watch.screencastify.com/v/vuvBPa0BbFjflOhedIH7)
+[Recording of Application](https://watch.screencastify.com/v/k61vl3SUU1G1Z7RAWsD2)
 
 Start mySQL in an integrated terminal
 ```
